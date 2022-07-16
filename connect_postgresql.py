@@ -108,7 +108,7 @@ if __name__ == "__main__":
     # create_table(SQL=SQL_CREATE_TABLE)
 
     # insertion des données
-    insert_sql(SQL=SQL_INSERT, VALUE=SQL_INSERT_VALUE)
+    #insert_sql(SQL=SQL_INSERT, VALUE=SQL_INSERT_VALUE)
 
     # Sélection des données
     select_sql(SQL=SQL_SELECT)
